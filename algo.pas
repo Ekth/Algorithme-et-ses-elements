@@ -39,6 +39,6 @@ BEGIN
 
     WriteLn('Nombre de mots: ', nbmots + 1);  // +1 pour le dernier mot après le dernier espace
     WriteLn('Nombre de voyelles: ', nbvoy);
-    WriteLn('la longueur de la phrase est de : ', nbvoy,'caratère');
+    WriteLn('la longueur de la phrase est de : ', j,'caratère');
 END.
 END.
