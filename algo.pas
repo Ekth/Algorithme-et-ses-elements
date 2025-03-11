@@ -7,7 +7,7 @@ VAR
 
 BEGIN
     nbmots := 0;
-    nbcar := 0;
+    nbcar := 0; 
     nbvoy := 0;
     j := 1;
     i := 0;
